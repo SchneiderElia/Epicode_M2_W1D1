@@ -1,0 +1,13 @@
+# Cos'è una variabile?
+
+##
+
+Una variabile in poche parole e una scatola, e come essere in officina ogni pezzo si trova nella sua scatola
+e sulla scatola c'è scritto il nome del pezzo: es.(scatola con dadi da 10, oppure scatola delle candele, oppure viti a croce)
+
+Nel caso delle variabili all'interno di queste scatole ci sono dei dati che posso essere di diversi tipi
+
+	- nomi
+	- numeri
+	- insiemi di dati che definiscono qualcosa (come i dati anagrafici di una persona)
+	- ma anche risposte come vero e falso

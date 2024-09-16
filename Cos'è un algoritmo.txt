@@ -1,0 +1,10 @@
+# Cos'è un algoritmo?
+
+##
+
+Un algoritmo è come una ricetta, sono come le istruzioni per montare un mobile Ikea.
+da quale pezzo dobbiamo iniziare e con quali viti dobbiamo inserire per poi collegare 
+il pezzo successivo.
+
+In caso di javascritp non costruisce un mobile ma come noi con il mobile svolge un compito
+seguendo una serie di istruzioni precise per ottenere il risultato finale desiderato.

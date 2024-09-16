@@ -1,0 +1,16 @@
+# Variabili
+
+## undefinde VS null
+
+
+partendo dal concetto che vogliono dire la stessa cosa ma con contesto differente
+
+
+-- Undefined --
+è come avere una scatola nuova con la nostra bella scritta di ciò che deve contenere ma e ancora vuota
+
+
+-- null --
+è come avere una scatola con degli oggetti dentro, svuotarla e lasciarla vuota
+
+
